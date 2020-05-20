@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Web Development
 
 [Mom's Recipe Box](/sample_page)
 <img src="images/project1.jpg?raw=true"/>
@@ -18,9 +18,9 @@ Site that allows you to update recipes to meet dietary restrictions
 
 ---
 
-### Category Name 2
+### Python and Data Science
 
-- [Mom's Recipe Box](http://example.com/)
+- [Python Food Guessing Game](https://kathrynbrown.us/daysofcode/4/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
