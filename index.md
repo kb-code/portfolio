@@ -6,7 +6,8 @@
 
 [Mom's Recipe Box](/sample_page)
 <img src="images/project1.jpg?raw=true"/>
-Site that allows you to update recipes to meet dietary restrictions
+<Br>
+<p>Site that allows you to update recipes to meet dietary restrictions</p>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
