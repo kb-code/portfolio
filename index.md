@@ -4,14 +4,14 @@
 
 ### Web Development
 
-[Mom's Recipe Box](/sample_page)
+[Mom's Recipe Box](https://kathrynbrown.us/daysofocde/10)
 <img src="images/project1.jpg?raw=true"/>
 
 Site that allows you to update recipes to meet dietary restrictions
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Animate.style Playground](https://kathrynbrown.us/daysofocde/8)
+<img src="images/daysofcode10.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
