@@ -7,11 +7,13 @@
 [Mom's Recipe Box](https://kathrynbrown.us/daysofcode/8)
 <img src="images/project1.jpg?raw=true"/>
 
-Site that allows you to update recipes to meet dietary restrictions
+Recipe collection that can be updated to meet dietary restrictions
 
 ---
 [Animate.style Playground](https://kathrynbrown.us/daysofcode/10)
 <img src="images/daysofcode10.jpg?raw=true"/>
+
+Try out animate.style animations on your own custom text
 
 ---
 [Project 3 Title](http://example.com/)
