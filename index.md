@@ -5,7 +5,7 @@
 ### Web Development
 
 [Mom's Recipe Box](https://kathrynbrown.us/daysofcode/8)
-<img src="images/project1.jpg?raw=true"/>
+<img src="images/daysofcode8.jpg?raw=true"/>
 
 Recipe collection that can be updated to meet dietary restrictions
 
