@@ -15,20 +15,12 @@ Recipe collection that can be updated to meet dietary restrictions
 
 Try out animate.style animations on your own custom text
 
----
-[Coming Soon!](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Python and Data Science
 
 - [Python Food Guessing Game](https://kathrynbrown.us/daysofcode/4/)
-
----
-
-
-
 
 ---
 
