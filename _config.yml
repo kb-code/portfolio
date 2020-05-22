@@ -1,7 +1,6 @@
-title: Kathryn Brown # your name (or website title) here
-logo: "/images/image.png?raw=true" # your photo (or logo) here
-description: > # your text below
-  Leadership Facilitator and Full-stack Developer
+title: Kathryn Brown 
+logo: "/images/image.png?raw=true"
+description: Leadership Facilitator and Full-stack Developer
   <br>
   <br>
   <br>
@@ -12,4 +11,4 @@ description: > # your text below
   <br><br>
 
 template: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-000000-0 # your Google Analytics ID here
