@@ -16,7 +16,7 @@ Recipe collection that can be updated to meet dietary restrictions
 Try out animate.style animations on your own custom text
 
 ---
-[Project 3 Title](http://example.com/)
+[Coming Soon!](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -24,10 +24,6 @@ Try out animate.style animations on your own custom text
 ### Python and Data Science
 
 - [Python Food Guessing Game](https://kathrynbrown.us/daysofcode/4/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
