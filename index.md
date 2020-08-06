@@ -4,6 +4,12 @@
 
 ### Web Development
 
+```javascript
+if (isAwesome){
+  return true
+}
+```
+
 [Mom's Recipe Box](https://kathrynbrown.us/daysofcode/8)
 
 **Project description:** Recipe collection that can be updated to meet dietary restrictions
@@ -12,6 +18,13 @@
 
 
 ---
+
+```javascript
+if (isAwesome){
+  return true
+}
+```
+
 [Animate.style Playground](https://kathrynbrown.us/daysofcode/10)
 
 **Project description:** Try out animate.style animations on your own custom text
