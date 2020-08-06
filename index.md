@@ -5,15 +5,18 @@
 ### Web Development
 
 [Mom's Recipe Box](https://kathrynbrown.us/daysofcode/8)
-<img src="images/daysofcode8.jpg?raw=true"/>
 
-**Project description:**Recipe collection that can be updated to meet dietary restrictions
+**Project description:** Recipe collection that can be updated to meet dietary restrictions
+
+<img src="images/daysofcode8.jpg?raw=true" style="max-width: 60%;" />
+
 
 ---
 [Animate.style Playground](https://kathrynbrown.us/daysofcode/10)
-<img src="images/daysofcode10.jpg?raw=true"/>
 
-**Project description:**Try out animate.style animations on your own custom text
+**Project description:** Try out animate.style animations on your own custom text
+
+<img src="images/daysofcode10.jpg?raw=true" style="max-width: 60%;" />
 
 
 ---
